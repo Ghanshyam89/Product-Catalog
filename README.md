@@ -1,4 +1,4 @@
-# Product Catalog Application (Java + Angular)
+# Product Catalog - Explore the Perfect Product
 
 The application is a product search platform that allows users to register, log in, and search for products. It provides search functionality, displays search results, and allows users to view product details. Registered users have additional features such as viewing prices, filtering products, and checking product serviceability based on their location.
 
