@@ -46,3 +46,6 @@ The application is a product search platform that allows users to register, log 
 ![Product Details Page](./screenshots/Screenshot%202023-06-13%20101619.png)
 ![Product Details Page](./screenshots/Screenshot%202023-06-13%20101640.png)
 ![Product Details Page](./screenshots/Screenshot%202023-06-13%20101701.png)
+
+## Summary
+In summary, our product search platform offers a user-friendly experience for finding and exploring various products. With features like registration, login, and search functionality, users can easily navigate and discover their desired items. The platform allows for detailed product viewing, price filtering, and serviceability checking based on location. It's a convenient tool that simplifies the product search process, empowering users to make informed decisions.
