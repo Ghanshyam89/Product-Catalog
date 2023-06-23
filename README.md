@@ -29,7 +29,6 @@ The application is a product search platform that allows users to register, log 
 - Displays search results using the API from the first application.
 - Shows product image, name, and brand.
 - Allows users to filter products by brand.
-
 ![Result Page](./screenshots/Screenshot%202023-06-13%20101135.png)
 ![Result Page](./screenshots/Screenshot%202023-06-13%20101232.png)
 
